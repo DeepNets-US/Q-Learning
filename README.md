@@ -10,7 +10,7 @@ Welcome to our vibrant playground for Reinforcement Learning (RL) exploration! ð
 ## How to Use:
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/DeepNets-US/Q-Learning.git
    ```
 
 2. **Explore the Notebooks:**
