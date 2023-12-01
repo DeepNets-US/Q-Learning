@@ -15,7 +15,7 @@ Welcome to our vibrant playground for Reinforcement Learning (RL) exploration! ð
 
 2. **Explore the Notebooks:**
    - Open the notebooks to witness visualizations showcasing the differences between Value Iteration and Q-learning.
-   - Access the notebooks directly on [Kaggle](https://www.kaggle.com/yourusername/your-notebook) for interactive exploration.
+   - Access the notebooks directly on [Kaggle](https://www.kaggle.com/code/utkarshsaxenadn/q-learning-reinforcement-learning) for interactive exploration.
 
 3. **Play and Learn:**
    - Tinker with the code, adjust parameters, and observe how decisions change in different scenarios.
